@@ -1,1 +1,2 @@
-
+This simple project uses Java classes and servlets to create a dynamic webpage where Animals can be scheduled for Vet appointments.
+New Vet offices can be added, and Animal 'Patients' can be added to the different Vets offices. This is done by creating two classes, One for Vets and one for Animals, where the Vet class can hold a list of Animal objects. Thus, each new instance of a Vet can hold a unique list of Animals. Servlets are used for the action pages, and to set the id's used for each Vet instance. 
