@@ -18,9 +18,9 @@ import hw4.model.User;
 
 public class MovieDbService {
 	
-	 private String url = "jdbc:mysql://cs3.calstatela.edu/cs3220stu18";
-	 private String username = "cs3220stu18";
-	 private String password = "hQVvAJLnK3Ah";
+	 private String url = "jdbc:mysql://127.0.0.1:3306/sys";
+	 private String username = "movieDbUser";
+	 private String password = "moviePass123";
 	 private Connection connection;
 	    
 	 public MovieDbService()
